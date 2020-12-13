@@ -1,20 +1,20 @@
 let review = [
     {
-        img: 'fortune.jpg', 
+        img: 'fortune.png', 
         name: 'Nnaji Sunday', 
         occupation: 'Web Developer', 
         comment: 'This platform is so powerful'
     },
 
     {
-        img: 'michy.jpg', 
+        img: 'michy.png', 
         name: 'Chikanyima Michelle', 
         occupation: 'Designer', 
         comment: 'Highly recommended'
     },
 
     {
-        img: 'fortune.jpg', 
+        img: 'fortune.png', 
         name: 'Sunday', 
         occupation: 'Web Developer', 
         comment: 'Powerful'
